@@ -1,5 +1,8 @@
 ## Olá , sou  **Jehane**  👩‍🦱
 
+![](https://media.tenor.com/HJ2Ugdvrd-sAAAAM/setembro-arvore.gif
+)
+
 <!--
 **estudantealuraJ29/estudantealuraJ29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
