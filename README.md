@@ -3,8 +3,7 @@
 ![](https://media.tenor.com/HJ2Ugdvrd-sAAAAM/setembro-arvore.gif
 )
 
-<!--
-**estudantealuraJ29/estudantealuraJ29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvo pouco de tecnologia, uso plataformas : Alura; sratch;PsJ5 java script, Vscode e Github
 
 Here are some ideas to get you started:
 
